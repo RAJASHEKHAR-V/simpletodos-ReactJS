@@ -1,0 +1,21 @@
+.list-item {
+  display: flex;
+  min-width: 250px;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  font-family: 'Roboto';
+  color: #000000;
+  font-weight: 600;
+}
+
+.button {
+  border: 1px solid #ff0b37;
+  border-radius: 4px;
+  min-height: 20px;
+  min-width: 50px;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+}
